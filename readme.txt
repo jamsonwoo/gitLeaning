@@ -3,4 +3,4 @@ This is a readme txt by studing git.
 
 Test~~~~
 
-We are going to record some git command.
+We are going to record some git command here.eg add and so on.
